@@ -1,3 +1,3 @@
 # React + Vite
 
-- npm create vite@latest
+- npm create vite@latest# React-Shopping-app
